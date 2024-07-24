@@ -1,0 +1,45 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #393E46;
+}
+
+.container {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .dice {
+    text-align: center;
+    display: inline-block;
+  
+  }
+  
+
+  
+  h2 {
+    font-size: 5rem; 
+    margin: 30px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+    /* font-size: 8rem; */
+    color: #4ECCA3;
+  }
+  
+  p {
+    font-size: 2rem;
+    color: #4ECCA3;
+    font-family: 'Indie Flower', cursive;
+  }
+  
+  img {
+    margin-top: 2rem;
+    width: 10rem;
+    /* margin-right: 2rem; */
+  }
+  
+  
